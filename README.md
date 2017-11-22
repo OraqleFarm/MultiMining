@@ -1,2 +1,2 @@
-# MultiMining
-Soon
+# MultiMining <a href="https://github.com/akbaryahya/MultiMining/releases/latest"><img src="https://img.shields.io/github/release/akbaryahya/MultiMining.svg"/></a>
+Go here: https://github.com/akbaryahya/MultiMining/releases | Total: <img src="https://img.shields.io/github/downloads/akbaryahya/MultiMining/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/MultiMining/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/MultiMining/issues"><img src="https://img.shields.io/github/issues/akbaryahya/MultiMining.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/MultiMining.svg"/> 
